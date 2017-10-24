@@ -1,7 +1,7 @@
-h1{
-font-family: verdana,Geneva, Verdana, sans-serif, Tahoma, sans-serif;
-color:white;
-font-size: 60px;
+h1 {
+    font-family: verdana,Geneva, Verdana, sans-serif, Tahoma, sans-serif;
+    color: white;
+    font-size: 60px;
 }
 
 body {
@@ -10,12 +10,12 @@ body {
 
 
 
-nav{
+nav {
     background-color:dimgrey;
     border: solid dimgrey;
-    height:40px;
+    height: 40px;
     width: 100%;
-    border-radius:none;
+    border-radius: none;
 }
     
 nav a {
@@ -29,10 +29,10 @@ nav a {
 
 
 
-#leftcolumn{
-    width:100%;
-    background-color:dimgrey;
-    float:left;
+#leftcolumn {
+    width: 100%;
+    background-color: dimgrey;
+    float: left;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     border-bottom-right-radius: 15px;
@@ -40,24 +40,24 @@ nav a {
 }
 
 
-#rightcolumn{
-    width:100%;
-    background-color:dimgrey;
-    float:right;
+#rightcolumn {
+    width: 100%;
+    background-color: dimgrey;
+    float: right;
     border-bottom-right-radius: 15px;
     border-bottom-left-radius: 15px;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
 }
 
-#center{
+#center {
     width:65%;
     background-color: red;
 }
 
 .border {
-    width:200px;
-    height:200px;
+    width: 200px;
+    height: 200px;
     border: solid black 3px;
      
 }
