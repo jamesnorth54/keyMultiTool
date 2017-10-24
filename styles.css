@@ -31,7 +31,7 @@ nav a {
 
 
 #leftcolumn{
-    width:100%;
+    width:30%;
     background-color:dimgrey;
     float:left;
     border-top-left-radius: 15px;
@@ -42,7 +42,7 @@ nav a {
 
 
 #rightcolumn{
-    width:100%;
+    width:30%;
     background-color:dimgrey;
     float:right;
     border-bottom-right-radius: 15px;
