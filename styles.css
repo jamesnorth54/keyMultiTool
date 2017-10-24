@@ -43,7 +43,7 @@ nav a {
 #rightcolumn{
     width:29%;
     background-color:dimgrey;
-    float:left;
+    float:right;
     border-bottom-right-radius: 15px;
     border-bottom-left-radius: 15px;
     border-top-left-radius: 15px;
