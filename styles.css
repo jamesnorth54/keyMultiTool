@@ -13,7 +13,7 @@ p{
     font-family: verdana,Geneva, Verdana, sans-serif, Tahoma, sans-serif;
 color:white;
     float:left;
-    font-size:30px;
+    font-size:20px;
 }
 
 
@@ -24,7 +24,6 @@ color:white;
     width: 100%;
     border-bottom-right-radius: 15px;
     border-bottom-left-radius: 15px;
-       padding-left:10%;
 }
     
     
