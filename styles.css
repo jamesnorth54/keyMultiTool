@@ -28,7 +28,7 @@ nav{
 nav a {
     text-decoration: none;
     color: gold;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: verdana,Geneva, Verdana, sans-serif, Tahoma, sans-serif;
     text-align: right;
     float:right;
 }
