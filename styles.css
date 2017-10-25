@@ -7,7 +7,13 @@ float:left;
 
 body {
     background-image: url("msahje.jpg");
-} 
+}
+
+p{
+    font-family: verdana,Geneva, Verdana, sans-serif, Tahoma, sans-serif;
+color:white;
+}
+    
 
 
 nav{
