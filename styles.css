@@ -1,6 +1,6 @@
 h1{
 font-family: verdana,Geneva, Verdana, sans-serif, Tahoma, sans-serif;
-color:gold;
+color:white;
 font-size: 60px;
 float:left;
 }
@@ -20,7 +20,7 @@ color:white;
    nav{
     background-color:dimgrey;
     border: solid dimgrey;
-    height:80px;
+    height:100px;
     width: 90%;
     border-bottom-right-radius: 15px;
     border-bottom-left-radius: 15px;
@@ -29,7 +29,7 @@ color:white;
     
 nav a {
     text-decoration: none;
-    color: gold;
+    color: white;
     font-family: verdana,Geneva, Verdana, sans-serif, Tahoma, sans-serif;
     text-align: right;
     float:right;
